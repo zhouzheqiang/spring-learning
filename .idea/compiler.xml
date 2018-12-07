@@ -10,6 +10,7 @@
         <module name="eureka-server" />
         <module name="producer-one" />
         <module name="producer-two" />
+        <module name="turbine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="eureka-server" target="1.8" />
       <module name="producer-one" target="1.8" />
       <module name="producer-two" target="1.8" />
+      <module name="turbine" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
